@@ -4,12 +4,13 @@ Sample API project using go lang
 https://golang.org/
 
 using static sample data without database connection
+```sh
 
+| GET       | /person/{id}   | getPerson            
 
-| GET    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| /person/{id}&nbsp;&nbsp;| getPerson            
+| GET       | /people           | getPeople           
 
-| GET    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| /people&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| getPeople           
+| POST     | /person           | createPerson       
 
-| POST   &nbsp;&nbsp;&nbsp;&nbsp;| /person &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| createPerson       
-
-| DELETE | /person/{id}&nbsp;&nbsp;| deletePerson       
+| DELETE | /person/{id}   | deletePerson       
+```
