@@ -1,7 +1,7 @@
 # Sample API Using Go
 
 Sample API project using go lang
-Using static sample data <b>Without Database connection<b>
+Using static sample data <b>Without Database connection<\b>
 <br\>
 https://golang.org/
 
