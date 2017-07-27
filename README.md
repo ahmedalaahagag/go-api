@@ -6,11 +6,11 @@ https://golang.org/
 using static sample data without database connection
 ```sh
 
-| GET       | /person/{id}   | getPerson            
+| GET      | /person/{id}   | getPerson            
 
-| GET       | /people           | getPeople           
+| GET      | /people        | getPeople           
 
-| POST     | /person           | createPerson       
+| POST     | /person         | createPerson       
 
-| DELETE | /person/{id}   | deletePerson       
+| DELETE   | /person/{id}      | deletePerson       
 ```
