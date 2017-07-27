@@ -10,7 +10,7 @@ using static sample data without database connection
 
 | GET      | /people        | getPeople           
 
-| POST     | /person         | createPerson       
+| POST     | /person        | createPerson       
 
-| DELETE   | /person/{id}      | deletePerson       
+| DELETE   | /person/{id}   | deletePerson       
 ```
