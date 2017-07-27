@@ -3,7 +3,7 @@
 Sample API project using go lang
 https://golang.org/
 
-using static sample data without Database connection
+using static sample data without database connection
 
 
 | GET    | /person/{id}         | getPerson            
